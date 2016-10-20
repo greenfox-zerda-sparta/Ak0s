@@ -1,0 +1,26 @@
+
+h1 {
+    color: rgb(12, 19, 220);
+}
+
+h2 {
+  color: rgb(240, 180, 0);
+}
+
+ul {
+  color: rgb(12, 19, 220);
+  list-style-type: square;
+}
+
+#apple {
+  color: red;
+}
+
+.sublist1 li {
+  color: black;
+  list-style-type: disc;
+}
+
+.sublist2 li {
+  color: black;
+}

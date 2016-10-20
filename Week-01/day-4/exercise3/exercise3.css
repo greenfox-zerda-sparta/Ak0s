@@ -1,0 +1,25 @@
+
+p {
+    background-color: yellow;
+    border: 5px solid black;
+    box-sizing: border-box;
+    color: rgb(12, 19, 180);
+    font: serif;
+    font-size: 30px;
+    height: 80px;
+    margin: 0;
+    padding: 20px 0 20px 20px;
+    width: 250px;
+}
+
+div {
+    border: 20px solid green;
+    box-sizing: border-box;
+    margin: 10px;
+    width: 290px;
+}
+
+#vegetables p {
+    color: rgb(200, 28, 32);
+    background: rgb(0, 255, 255);
+}
